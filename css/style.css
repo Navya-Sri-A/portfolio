@@ -62,6 +62,17 @@ main {
   margin-bottom: 15px;
 }
 
+/* Custom styling for experience sections */
+#experience.bg-section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.experience-block {
+  margin-bottom: 30px;
+  padding-left: 10px;
+}
+
 /* Custom styling for footer */
 footer {
   background-color: #050e1b;
