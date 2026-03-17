@@ -110,6 +110,12 @@ p {
   color: #ffffff;
 }
 
+/* Custom styling for projects sections to enable hover effect*/
+.project-tile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
 /* Custom styling for footer */
 footer {
   background-color: #050e1b;
