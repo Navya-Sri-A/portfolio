@@ -11,7 +11,7 @@ body {
   flex-direction: column;
   padding-top: 70px;
   font-family: Arial, sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   color: white;
   background: url("../images/bg.jpg") no-repeat center center fixed;
   background-size: cover;
@@ -104,7 +104,7 @@ p {
   content: "•";
   color: #d14242;
   margin-right: 15px;
-  font-size: 1.5rem;
+  font-size: 1 rem;
   vertical-align: middle;
 }
 
