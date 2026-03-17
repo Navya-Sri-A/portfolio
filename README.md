@@ -21,17 +21,4 @@ Login to github and on navigating to thr right repo, on top right click on CODE 
 
 **Structure of the project**
 
-│── Readme
-│── Journal  
-├── index.html  
-├── experience.html  
-│
-├── images/  
-│ ├── profile picture  
-│ └── background picture
-│  
-├── CSS/  
-│ └── style.css  
-│  
-│── js/  
-│ └── script.js
+<img width="202" height="298" alt="Screenshot 2026-03-17 at 3 34 27 AM" src="https://github.com/user-attachments/assets/551e3eb0-baee-4b06-8616-aa4ddf0889d3" />
