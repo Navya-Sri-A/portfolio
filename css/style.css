@@ -43,7 +43,7 @@ p {
 }
 
 .navbar-custom .nav-link:hover {
-  color: #42d161;
+  color: #d14242;
 }
 
 /* Custom styling for all the sections in the home page */
@@ -94,6 +94,20 @@ p {
 .experience-block {
   margin-bottom: 30px;
   padding-left: 10px;
+}
+
+.experience-block h4::before {
+  content: "•";
+  color: #d14242;
+  margin-right: 15px;
+  font-size: 1.5rem;
+  vertical-align: middle;
+}
+
+.experience-block p {
+  margin-left: 30px;
+  line-height: 1.7;
+  color: #ffffff;
 }
 
 /* Custom styling for footer */
