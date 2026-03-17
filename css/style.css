@@ -1,3 +1,5 @@
+/* This block sets the global properties of the entire page */
+
 body {
   min-height: 100vh;
   margin: 0;
@@ -15,6 +17,7 @@ main {
   flex: 1;
 }
 
+/* Custom styling for navigation bar */
 .navbar-custom {
   background-color: #050e1b;
 }
@@ -29,6 +32,7 @@ main {
   color: #42d161;
 }
 
+/* Custom styling for all the sections in the home page */
 .bg-section {
   position: relative;
   padding: 80px 0px;
@@ -41,6 +45,7 @@ main {
   z-index: 1;
 }
 
+/* Custom styling for hero section */
 #home .profile-text {
   position: relative;
   z-index: 1;
@@ -57,6 +62,7 @@ main {
   margin-bottom: 15px;
 }
 
+/* Custom styling for footer */
 footer {
   background-color: #050e1b;
   padding: 20px 0;
