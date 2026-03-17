@@ -29,6 +29,18 @@ main {
   color: #42d161;
 }
 
+.bg-section {
+  position: relative;
+  padding: 80px 0px;
+  min-height: 50vh;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.bg-section .container {
+  position: relative;
+  z-index: 1;
+}
+
 #home .profile-text {
   position: relative;
   z-index: 1;
