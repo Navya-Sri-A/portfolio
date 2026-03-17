@@ -1,4 +1,8 @@
-/* This block sets the global properties of the entire page */
+/* This block sets the global properties of the entire page and enabling smooth scrolling */
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   min-height: 100vh;
