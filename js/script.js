@@ -14,3 +14,13 @@ document.querySelectorAll(".contact-form").forEach((form) => {
     form.reset();
   });
 });
+
+// Close navigation bar on mobile (hamburger icon would now collapse)
+document.querySelectorAll(".nav-link").forEach((link) => {
+  link.addEventListener("click", () => {
+    const navbar = document.querySelector(".navbar-collapse");
+    if (navbar.classList.contains("show")) {
+      new bootstrap.Collapse(navbar).hide();
+    }
+  });
+});
