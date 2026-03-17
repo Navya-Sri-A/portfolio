@@ -7,6 +7,12 @@ body {
   font-family: Arial, sans-serif;
   font-size: 20px;
   color: white;
+  background: #050e1b;
+  background-size: cover;
+}
+
+main {
+  flex: 1;
 }
 
 .navbar-custom {
@@ -21,6 +27,22 @@ body {
 
 .navbar-custom .nav-link:hover {
   color: #42d161;
+}
+
+#home .profile-text {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  max-width: 600px;
+}
+
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: 50% 20%;
+  border-radius: 50%;
+  margin-bottom: 15px;
 }
 
 footer {
