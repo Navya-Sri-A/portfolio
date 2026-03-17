@@ -5,6 +5,10 @@ document.querySelectorAll(".contact-form").forEach((form) => {
     const name = document.getElementById("name").value.trim();
     const email = document.getElementById("email").value.trim();
     const message = document.getElementById("message").value.trim();
+    if (!name || !email || !message) {
+      alert("Please fill out all fields before submitting the form.");
+      return;
+    }
     console.log({ name, email, message });
     alert("Message sent! You'll hear back soon.");
     form.reset();
