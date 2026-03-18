@@ -2,8 +2,9 @@
 
 Please find the related links here :
 
-- Link to the git public repo : https://github.com/Navya-Sri-A/portfolio
-- Link to the website : https://navya-sri-a.github.io/portfolio/
+- Link to the github public repo : [Portfolio code](https://github.com/Navya-Sri-A/portfolio)
+- Link to the website : [Portfolio site](https://navya-sri-a.github.io/portfolio/)
+- Link to the recording : [Youtube](https://youtu.be/uupfKd5Qj5E) || [Media.pdx](https://media.pdx.edu/media/t/1_uvrnzxna)
 
 The step by step process for creating a professional portfolio using technologies like HTML, CSS, Java Script and Bootstrap
 
@@ -20,13 +21,13 @@ The step by step process for creating a professional portfolio using technologie
   During this phase I was sure of having the baic layout lined up, decided to have experience.html and began working on css and contact form java script code.
 
 - **_Testing phase :_**
-  After multiple trial and error methods I've found few repetitive blocks of code in CSS and I've edited it all to make it better while accessing and improved readability.
+  After multiple trial and error methods I've found few repetitive blocks of code in css and I've edited it all to make it better while accessing and improved readability.
 
 - **_Improvements phase :_**
   Here is where I've noticed the outlook being decent and scope to improve the scrolling and mobile view perspectives and hence began working on it.
 
 - **_Final phase :_**
-  The final phase was to test the performance of the site, I've tried testing contact form options, scrolling, experience page navigation, mobile view perspective, etc, it all worked as expected and then I've began running WAVE and Lightshouse tools to confirm any issues (Found a couple - Contrast errors and redundant links) fixed and deployed the page.
+  The final phase was to test the performance of the site, I've tried testing contact form options, scrolling, experience page navigation, mobile view perspective, etc, it all worked as expected and then I've began running WAVE and Lightshouse tools to confirm any issues (found a couple - contrast errors and redundant links) fixed and deployed the page.
 
 **Sources** - The material provided on Canvas and assignments helped a lot, but for few project specific implementations reviewed these below pages
 
